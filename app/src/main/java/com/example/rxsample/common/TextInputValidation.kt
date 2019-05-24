@@ -1,0 +1,5 @@
+package com.example.rxsample.common
+
+enum class TextInputValidation {
+    INVALID_EMAIL, INVALID_PHONE, INVALID_PASSWORD, INVALID_CONFIRMATION, INVALID_LENGTH, INVALID, INVALID_CHARACTERS
+}

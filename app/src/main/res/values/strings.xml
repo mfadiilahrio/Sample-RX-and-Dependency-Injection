@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="this_is_my_sample">This is my sample</string>
+    <string name="label_rx_sample">RX Sample</string>
+    <string name="label_list_of_rx_sample">List of RX Sample</string>
+    <string name="label_form_validation">Form Validation</string>
+    <string name="label_api_validation">Api Validation</string>
+
+    <string name="label_submit">Submit</string>
+    <string name="label_dagger_2">Dagger 2</string>
+    <string name="title_activity_dagger2">Dagger2Activity</string>
+</resources>
